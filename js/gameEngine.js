@@ -372,7 +372,7 @@ var GameEngine = {
 		}
 		menubtn.addEventListener("click", function() {
 			hiderShow(function(){
-            window.location.href="./index.html";
+            window.location.href="./";
 			});
         });
     },
@@ -422,7 +422,7 @@ GameEngine.lost=false;
         });
 			menubtn.addEventListener("click", function() {
 			hiderShow(function(){
-            window.location.href="./index.html";
+            window.location.href="./";
 			});
         });
 				GameEngine.readyPrmpt=readyprmt.prompt;

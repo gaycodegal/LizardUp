@@ -35,6 +35,6 @@ window.addEventListener("load",function(){
 
 document.getElementById("rpp").addEventListener("click", function() {
 			hiderShow(function(){
-            window.location.href="./index.html";
+            window.location.href="./";
 			});
         });
